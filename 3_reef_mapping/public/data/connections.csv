@@ -1,0 +1,228 @@
+Track_A,Title_A,Track_B,Title_B,BPM_A,BPM_B,Camelot_A,Camelot_B,BPM_similarity,Key_similarity,Connection_score
+PL01_0001,Changes (Mario Basanov Remix),PL01_0002,Point of View,123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0010,The Quest,PL01_0012,ID Please,129.2,129.2,10B,10B,1.0,1.0,1.0
+PL01_0002,Point of View,PL01_0018,Levitate,123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0019,Three,123.0,123.0,8A,8A,1.0,1.0,1.0
+PL01_0015,Skyfall,PL01_0026,Self CNTRL,123.0,123.0,6A,6A,1.0,1.0,1.0
+PL01_0002,Point of View,PL01_0003,The Prophet (Andrew Meller Remix),123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0001,Changes (Mario Basanov Remix),PL01_0027,Departure,123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0008,Veamos,PL01_0029,Kaleido,123.0,123.0,8A,8A,1.0,1.0,1.0
+PL01_0011,Science Fiction,PL01_0012,ID Please,129.2,129.2,10B,10B,1.0,1.0,1.0
+PL01_0002,Point of View,PL01_0027,Departure,123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0019,Three,PL01_0029,Kaleido,123.0,123.0,8A,8A,1.0,1.0,1.0
+PL01_0018,Levitate,PL01_0027,Departure,123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0029,Kaleido,123.0,123.0,8A,8A,1.0,1.0,1.0
+PL01_0001,Changes (Mario Basanov Remix),PL01_0018,Levitate,123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0005,Down Memory Lane,123.0,123.0,3B,3B,1.0,1.0,1.0
+PL01_0010,The Quest,PL01_0011,Science Fiction,129.2,129.2,10B,10B,1.0,1.0,1.0
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0027,Departure,123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0008,Veamos,PL01_0014,Midnite Man (Tim Paris Remix),123.0,123.0,8A,8A,1.0,1.0,1.0
+PL01_0001,Changes (Mario Basanov Remix),PL01_0003,The Prophet (Andrew Meller Remix),123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0008,Veamos,PL01_0019,Three,123.0,123.0,8A,8A,1.0,1.0,1.0
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0018,Levitate,123.0,123.0,4A,4A,1.0,1.0,1.0
+PL01_0019,Three,PL01_0021,There Is No Orb,123.0,123.0,8A,7A,1.0,0.8,0.92
+PL01_0016,Among Us,PL01_0026,Self CNTRL,123.0,123.0,5A,6A,1.0,0.8,0.92
+PL01_0015,Skyfall,PL01_0021,There Is No Orb,123.0,123.0,6A,7A,1.0,0.8,0.92
+PL01_0015,Skyfall,PL01_0016,Among Us,123.0,123.0,6A,5A,1.0,0.8,0.92
+PL01_0016,Among Us,PL01_0027,Departure,123.0,123.0,5A,4A,1.0,0.8,0.92
+PL01_0002,Point of View,PL01_0016,Among Us,123.0,123.0,4A,5A,1.0,0.8,0.92
+PL01_0016,Among Us,PL01_0018,Levitate,123.0,123.0,5A,4A,1.0,0.8,0.92
+PL01_0013,Self R3B00T,PL01_0023,Magma,123.0,123.0,1A,1B,1.0,0.8,0.92
+PL01_0020,Take U,PL01_0023,Magma,123.0,123.0,12B,1B,1.0,0.8,0.92
+PL01_0021,There Is No Orb,PL01_0026,Self CNTRL,123.0,123.0,7A,6A,1.0,0.8,0.92
+PL01_0008,Veamos,PL01_0021,There Is No Orb,123.0,123.0,8A,7A,1.0,0.8,0.92
+PL01_0009,Vertigo,PL01_0025,Rainy Days,123.0,123.0,10B,10A,1.0,0.8,0.92
+PL01_0001,Changes (Mario Basanov Remix),PL01_0016,Among Us,123.0,123.0,4A,5A,1.0,0.8,0.92
+PL01_0010,The Quest,PL01_0017,Known...Unknown...,129.2,129.2,10B,10A,1.0,0.8,0.92
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0021,There Is No Orb,123.0,123.0,8A,7A,1.0,0.8,0.92
+PL01_0021,There Is No Orb,PL01_0029,Kaleido,123.0,123.0,7A,8A,1.0,0.8,0.92
+PL01_0011,Science Fiction,PL01_0017,Known...Unknown...,129.2,129.2,10B,10A,1.0,0.8,0.92
+PL01_0012,ID Please,PL01_0017,Known...Unknown...,129.2,129.2,10B,10A,1.0,0.8,0.92
+PL01_0006,This Time (Gorge Remix),PL01_0013,Self R3B00T,123.0,123.0,2A,1A,1.0,0.8,0.92
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0016,Among Us,123.0,123.0,4A,5A,1.0,0.8,0.92
+PL01_0022,Indio Hindu,PL01_0026,Self CNTRL,117.5,123.0,6A,6A,0.45,1.0,0.67
+PL01_0015,Skyfall,PL01_0022,Indio Hindu,123.0,117.5,6A,6A,0.45,1.0,0.67
+PL01_0017,Known...Unknown...,PL01_0025,Rainy Days,129.2,123.0,10A,10A,0.38,1.0,0.628
+PL01_0009,Vertigo,PL01_0012,ID Please,123.0,129.2,10B,10B,0.38,1.0,0.628
+PL01_0009,Vertigo,PL01_0011,Science Fiction,123.0,129.2,10B,10B,0.38,1.0,0.628
+PL01_0009,Vertigo,PL01_0010,The Quest,123.0,129.2,10B,10B,0.38,1.0,0.628
+PL01_0018,Levitate,PL01_0019,Three,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0027,Departure,123.0,123.0,10B,4A,1.0,0.0,0.6
+PL01_0023,Magma,PL01_0026,Self CNTRL,123.0,123.0,1B,6A,1.0,0.0,0.6
+PL01_0023,Magma,PL01_0025,Rainy Days,123.0,123.0,1B,10A,1.0,0.0,0.6
+PL01_0022,Indio Hindu,PL01_0024,Clarity (feat. David A Diaz),117.5,117.5,6A,9A,1.0,0.0,0.6
+PL01_0021,There Is No Orb,PL01_0027,Departure,123.0,123.0,7A,4A,1.0,0.0,0.6
+PL01_0021,There Is No Orb,PL01_0025,Rainy Days,123.0,123.0,7A,10A,1.0,0.0,0.6
+PL01_0021,There Is No Orb,PL01_0023,Magma,123.0,123.0,7A,1B,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0014,Midnite Man (Tim Paris Remix),123.0,123.0,1A,8A,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0015,Skyfall,123.0,123.0,1A,6A,1.0,0.0,0.6
+PL01_0020,Take U,PL01_0029,Kaleido,123.0,123.0,12B,8A,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0016,Among Us,123.0,123.0,1A,5A,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0018,Levitate,123.0,123.0,1A,4A,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0019,Three,123.0,123.0,1A,8A,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0020,Take U,123.0,123.0,1A,12B,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0021,There Is No Orb,123.0,123.0,1A,7A,1.0,0.0,0.6
+PL01_0020,Take U,PL01_0027,Departure,123.0,123.0,12B,4A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0029,Kaleido,123.0,123.0,10B,8A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0026,Self CNTRL,123.0,123.0,10B,6A,1.0,0.0,0.6
+PL01_0018,Levitate,PL01_0020,Take U,123.0,123.0,4A,12B,1.0,0.0,0.6
+PL01_0023,Magma,PL01_0027,Departure,123.0,123.0,1B,4A,1.0,0.0,0.6
+PL01_0026,Self CNTRL,PL01_0029,Kaleido,123.0,123.0,6A,8A,1.0,0.0,0.6
+PL01_0026,Self CNTRL,PL01_0027,Departure,123.0,123.0,6A,4A,1.0,0.0,0.6
+PL01_0025,Rainy Days,PL01_0029,Kaleido,123.0,123.0,10A,8A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0013,Self R3B00T,123.0,123.0,10B,1A,1.0,0.0,0.6
+PL01_0025,Rainy Days,PL01_0027,Departure,123.0,123.0,10A,4A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0014,Midnite Man (Tim Paris Remix),123.0,123.0,10B,8A,1.0,0.0,0.6
+PL01_0025,Rainy Days,PL01_0026,Self CNTRL,123.0,123.0,10A,6A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0015,Skyfall,123.0,123.0,10B,6A,1.0,0.0,0.6
+PL01_0023,Magma,PL01_0029,Kaleido,123.0,123.0,1B,8A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0016,Among Us,123.0,123.0,10B,5A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0018,Levitate,123.0,123.0,10B,4A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0019,Three,123.0,123.0,10B,8A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0020,Take U,123.0,123.0,10B,12B,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0021,There Is No Orb,123.0,123.0,10B,7A,1.0,0.0,0.6
+PL01_0009,Vertigo,PL01_0023,Magma,123.0,123.0,10B,1B,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0025,Rainy Days,123.0,123.0,1A,10A,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0026,Self CNTRL,123.0,123.0,1A,6A,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0027,Departure,123.0,123.0,1A,4A,1.0,0.0,0.6
+PL01_0013,Self R3B00T,PL01_0029,Kaleido,123.0,123.0,1A,8A,1.0,0.0,0.6
+PL01_0015,Skyfall,PL01_0025,Rainy Days,123.0,123.0,6A,10A,1.0,0.0,0.6
+PL01_0019,Three,PL01_0023,Magma,123.0,123.0,8A,1B,1.0,0.0,0.6
+PL01_0015,Skyfall,PL01_0027,Departure,123.0,123.0,6A,4A,1.0,0.0,0.6
+PL01_0019,Three,PL01_0020,Take U,123.0,123.0,8A,12B,1.0,0.0,0.6
+PL01_0018,Levitate,PL01_0029,Kaleido,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0016,Among Us,PL01_0019,Three,123.0,123.0,5A,8A,1.0,0.0,0.6
+PL01_0018,Levitate,PL01_0026,Self CNTRL,123.0,123.0,4A,6A,1.0,0.0,0.6
+PL01_0016,Among Us,PL01_0020,Take U,123.0,123.0,5A,12B,1.0,0.0,0.6
+PL01_0018,Levitate,PL01_0025,Rainy Days,123.0,123.0,4A,10A,1.0,0.0,0.6
+PL01_0016,Among Us,PL01_0021,There Is No Orb,123.0,123.0,5A,7A,1.0,0.0,0.6
+PL01_0016,Among Us,PL01_0023,Magma,123.0,123.0,5A,1B,1.0,0.0,0.6
+PL01_0016,Among Us,PL01_0025,Rainy Days,123.0,123.0,5A,10A,1.0,0.0,0.6
+PL01_0018,Levitate,PL01_0023,Magma,123.0,123.0,4A,1B,1.0,0.0,0.6
+PL01_0018,Levitate,PL01_0021,There Is No Orb,123.0,123.0,4A,7A,1.0,0.0,0.6
+PL01_0016,Among Us,PL01_0029,Kaleido,123.0,123.0,5A,8A,1.0,0.0,0.6
+PL01_0015,Skyfall,PL01_0023,Magma,123.0,123.0,6A,1B,1.0,0.0,0.6
+PL01_0019,Three,PL01_0025,Rainy Days,123.0,123.0,8A,10A,1.0,0.0,0.6
+PL01_0019,Three,PL01_0026,Self CNTRL,123.0,123.0,8A,6A,1.0,0.0,0.6
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0023,Magma,123.0,123.0,8A,1B,1.0,0.0,0.6
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0015,Skyfall,123.0,123.0,8A,6A,1.0,0.0,0.6
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0016,Among Us,123.0,123.0,8A,5A,1.0,0.0,0.6
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0018,Levitate,123.0,123.0,8A,4A,1.0,0.0,0.6
+PL01_0020,Take U,PL01_0026,Self CNTRL,123.0,123.0,12B,6A,1.0,0.0,0.6
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0020,Take U,123.0,123.0,8A,12B,1.0,0.0,0.6
+PL01_0020,Take U,PL01_0025,Rainy Days,123.0,123.0,12B,10A,1.0,0.0,0.6
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0025,Rainy Days,123.0,123.0,8A,10A,1.0,0.0,0.6
+PL01_0015,Skyfall,PL01_0020,Take U,123.0,123.0,6A,12B,1.0,0.0,0.6
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0026,Self CNTRL,123.0,123.0,8A,6A,1.0,0.0,0.6
+PL01_0014,Midnite Man (Tim Paris Remix),PL01_0027,Departure,123.0,123.0,8A,4A,1.0,0.0,0.6
+PL01_0020,Take U,PL01_0021,There Is No Orb,123.0,123.0,12B,7A,1.0,0.0,0.6
+PL01_0019,Three,PL01_0027,Departure,123.0,123.0,8A,4A,1.0,0.0,0.6
+PL01_0015,Skyfall,PL01_0018,Levitate,123.0,123.0,6A,4A,1.0,0.0,0.6
+PL01_0015,Skyfall,PL01_0019,Three,123.0,123.0,6A,8A,1.0,0.0,0.6
+PL01_0015,Skyfall,PL01_0029,Kaleido,123.0,123.0,6A,8A,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0016,Among Us,123.0,123.0,8A,5A,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0027,Departure,123.0,123.0,8A,4A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0015,Skyfall,123.0,123.0,3B,6A,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0023,Magma,123.0,123.0,4A,1B,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0025,Rainy Days,123.0,123.0,4A,10A,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0026,Self CNTRL,123.0,123.0,4A,6A,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0029,Kaleido,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0004,Natural Flow (Hobin Rude Remix),123.0,123.0,4A,3B,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0005,Down Memory Lane,123.0,123.0,4A,3B,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0006,This Time (Gorge Remix),123.0,123.0,4A,2A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0008,Veamos,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0009,Vertigo,123.0,123.0,4A,10B,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0013,Self R3B00T,123.0,123.0,4A,1A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0014,Midnite Man (Tim Paris Remix),123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0015,Skyfall,123.0,123.0,4A,6A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0019,Three,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0020,Take U,123.0,123.0,4A,12B,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0021,There Is No Orb,123.0,123.0,4A,7A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0023,Magma,123.0,123.0,4A,1B,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0025,Rainy Days,123.0,123.0,4A,10A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0026,Self CNTRL,123.0,123.0,4A,6A,1.0,0.0,0.6
+PL01_0003,The Prophet (Andrew Meller Remix),PL01_0029,Kaleido,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0006,This Time (Gorge Remix),123.0,123.0,3B,2A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0008,Veamos,123.0,123.0,3B,8A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0009,Vertigo,123.0,123.0,3B,10B,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0013,Self R3B00T,123.0,123.0,3B,1A,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0021,There Is No Orb,123.0,123.0,4A,7A,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0020,Take U,123.0,123.0,4A,12B,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0019,Three,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0021,There Is No Orb,123.0,123.0,4A,7A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0004,Natural Flow (Hobin Rude Remix),123.0,123.0,4A,3B,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0005,Down Memory Lane,123.0,123.0,4A,3B,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0006,This Time (Gorge Remix),123.0,123.0,4A,2A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0008,Veamos,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0009,Vertigo,123.0,123.0,4A,10B,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0013,Self R3B00T,123.0,123.0,4A,1A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0014,Midnite Man (Tim Paris Remix),123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0015,Skyfall,123.0,123.0,4A,6A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0019,Three,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0020,Take U,123.0,123.0,4A,12B,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0023,Magma,123.0,123.0,4A,1B,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0015,Skyfall,123.0,123.0,4A,6A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0025,Rainy Days,123.0,123.0,4A,10A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0026,Self CNTRL,123.0,123.0,4A,6A,1.0,0.0,0.6
+PL01_0001,Changes (Mario Basanov Remix),PL01_0029,Kaleido,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0004,Natural Flow (Hobin Rude Remix),123.0,123.0,4A,3B,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0005,Down Memory Lane,123.0,123.0,4A,3B,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0006,This Time (Gorge Remix),123.0,123.0,4A,2A,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0008,Veamos,123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0009,Vertigo,123.0,123.0,4A,10B,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0013,Self R3B00T,123.0,123.0,4A,1A,1.0,0.0,0.6
+PL01_0002,Point of View,PL01_0014,Midnite Man (Tim Paris Remix),123.0,123.0,4A,8A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0014,Midnite Man (Tim Paris Remix),123.0,123.0,3B,8A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0016,Among Us,123.0,123.0,3B,5A,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0026,Self CNTRL,123.0,123.0,8A,6A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0018,Levitate,123.0,123.0,3B,4A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0014,Midnite Man (Tim Paris Remix),123.0,123.0,2A,8A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0015,Skyfall,123.0,123.0,2A,6A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0016,Among Us,123.0,123.0,2A,5A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0018,Levitate,123.0,123.0,2A,4A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0019,Three,123.0,123.0,2A,8A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0020,Take U,123.0,123.0,2A,12B,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0021,There Is No Orb,123.0,123.0,2A,7A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0023,Magma,123.0,123.0,2A,1B,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0025,Rainy Days,123.0,123.0,2A,10A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0026,Self CNTRL,123.0,123.0,2A,6A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0027,Departure,123.0,123.0,2A,4A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0029,Kaleido,123.0,123.0,2A,8A,1.0,0.0,0.6
+PL01_0007,Melted,PL01_0010,The Quest,129.2,129.2,5B,10B,1.0,0.0,0.6
+PL01_0007,Melted,PL01_0011,Science Fiction,129.2,129.2,5B,10B,1.0,0.0,0.6
+PL01_0007,Melted,PL01_0012,ID Please,129.2,129.2,5B,10B,1.0,0.0,0.6
+PL01_0007,Melted,PL01_0017,Known...Unknown...,129.2,129.2,5B,10A,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0009,Vertigo,123.0,123.0,8A,10B,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0013,Self R3B00T,123.0,123.0,8A,1A,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0015,Skyfall,123.0,123.0,8A,6A,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0018,Levitate,123.0,123.0,8A,4A,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0020,Take U,123.0,123.0,8A,12B,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0023,Magma,123.0,123.0,8A,1B,1.0,0.0,0.6
+PL01_0008,Veamos,PL01_0025,Rainy Days,123.0,123.0,8A,10A,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0009,Vertigo,123.0,123.0,2A,10B,1.0,0.0,0.6
+PL01_0006,This Time (Gorge Remix),PL01_0008,Veamos,123.0,123.0,2A,8A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0029,Kaleido,123.0,123.0,3B,8A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0009,Vertigo,123.0,123.0,3B,10B,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0019,Three,123.0,123.0,3B,8A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0020,Take U,123.0,123.0,3B,12B,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0021,There Is No Orb,123.0,123.0,3B,7A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0023,Magma,123.0,123.0,3B,1B,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0025,Rainy Days,123.0,123.0,3B,10A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0026,Self CNTRL,123.0,123.0,3B,6A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0027,Departure,123.0,123.0,3B,4A,1.0,0.0,0.6
+PL01_0004,Natural Flow (Hobin Rude Remix),PL01_0029,Kaleido,123.0,123.0,3B,8A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0006,This Time (Gorge Remix),123.0,123.0,3B,2A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0008,Veamos,123.0,123.0,3B,8A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0013,Self R3B00T,123.0,123.0,3B,1A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0027,Departure,123.0,123.0,3B,4A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0014,Midnite Man (Tim Paris Remix),123.0,123.0,3B,8A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0015,Skyfall,123.0,123.0,3B,6A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0016,Among Us,123.0,123.0,3B,5A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0018,Levitate,123.0,123.0,3B,4A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0019,Three,123.0,123.0,3B,8A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0020,Take U,123.0,123.0,3B,12B,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0021,There Is No Orb,123.0,123.0,3B,7A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0023,Magma,123.0,123.0,3B,1B,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0025,Rainy Days,123.0,123.0,3B,10A,1.0,0.0,0.6
+PL01_0005,Down Memory Lane,PL01_0026,Self CNTRL,123.0,123.0,3B,6A,1.0,0.0,0.6
+PL01_0027,Departure,PL01_0029,Kaleido,123.0,123.0,4A,8A,1.0,0.0,0.6
