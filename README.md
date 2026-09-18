@@ -6,6 +6,5 @@ Oceania is a Genre Mapping Network that connects selected tracks together and cr
 
 
 
-
-BPM and key metadata provided by GetSongBPM:
-https://getsongbpm.com
+Coral Graphics:
+"Soft Coral Set" (https://skfb.ly/oWStC) by Kanna-Nakajima is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
